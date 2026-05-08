@@ -1,0 +1,15 @@
+{
+  "round": 2,
+  "verdict": "APPROVED",
+  "issues_by_category": {
+    "factual": [],
+    "shallow": [],
+    "structural": [],
+    "tone": [],
+    "length": [],
+    "citation": []
+  },
+  "rounds_total": 2,
+  "max_rounds": 4,
+  "notes": "Round 1 (6 issues) all resolved. Visualization coverage: 9 slides (S3 Mermaid flowchart, S5 JSON+ASCII tree, S6 Mermaid graph, S7 Mermaid sequenceDiagram, S8 ASCII tree+Mermaid pipeline, S9 3-col table, S10 Mermaid quadrantChart+table, S11 2-col flex, S12 ASCII pipeline+table)."
+}
