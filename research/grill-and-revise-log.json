@@ -1,0 +1,14 @@
+{
+  "round": 3,
+  "verdict": "APPROVED",
+  "issues_by_category": {
+    "factual": [],
+    "shallow": [],
+    "structural": [],
+    "tone": [],
+    "length": [],
+    "citation": []
+  },
+  "rounds_total": 3,
+  "max_rounds": 4
+}
